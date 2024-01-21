@@ -19,7 +19,7 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: var(--bg);
+  background-color: red;
   color: #fff;
   /* min-height: 6000px; */
 }
